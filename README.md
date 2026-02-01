@@ -74,13 +74,12 @@ git clone <//github.com/NAVRAJ-SINGH-AFK/Full_Stack_Experiment_2.git>
 
 Use code with caution.
 
+Live Deployment
+https://navrajsingh70076-exp-2.netlify.app/
+
 Launch the Environment:
 
 Open the root folder in VS Code and use the Live Server extension on index.html.
-
-Live Access:
-
-View the production version hosted on Vercel.
 
 🛠 Tech Stack
 
